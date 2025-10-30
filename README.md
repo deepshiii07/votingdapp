@@ -27,7 +27,7 @@ By using a simple hashing technique, this project ensures that each day always m
 ---
 
 ### 🔗 Deployed Smart Contract Link
-*Contract Address:* XXX
+*Contract Address:* 0xe1e9ee0eb448ad021e4fbe2294027fe3b1ecb76dd41f4c161406191bf9f84f75
 
 ---
 
